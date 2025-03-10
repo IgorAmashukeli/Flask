@@ -4,7 +4,7 @@
 
 
 
-The authors from the master's program (Griffith College) do not approve of posting problem solutions on a public GitHub repository.
+The authors from the master's program (Griffith College) do not approve of posting assignments on a public GitHub repository.
 
 You can access all the data in the repository provided [here](https://github.com/IgorAmashukeli/Flask_content).
 
