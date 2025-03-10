@@ -1,0 +1,1 @@
+console.log('this is a sample js file for public repository to show correct stats');
